@@ -9,7 +9,7 @@ public class Generator1 {
 		for (int i = 0; i< luckyNumbers.length; i++) {
 			luckyNumbers[i] = (int)(Math.random() * 100);
 		}
-		return luckyNumbers;
+		return luckyNumbers; 
 	}
 
 }
